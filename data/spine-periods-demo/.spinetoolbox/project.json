@@ -1,0 +1,68 @@
+{
+    "project": {
+        "version": 6,
+        "name": "spine-periods-demo",
+        "description": "",
+        "specifications": {},
+        "connections": []
+    },
+    "items": {
+        "Rep days order output": {
+            "type": "Data Store",
+            "description": "",
+            "x": 4.062530175685083,
+            "y": -2.9968533373947395,
+            "url": {
+                "dialect": "sqlite",
+                "username": "",
+                "password": "",
+                "host": "",
+                "port": "",
+                "database": {
+                    "type": "path",
+                    "relative": false,
+                    "path": "/home/u0128861/Desktop/Spine_Periods_Example/spine-periods-demo/data/Belgium_2017_orderer_out.sqlite"
+                }
+            },
+            "cancel_on_error": false
+        },
+        "Rep days orderer": {
+            "type": "Data Store",
+            "description": "",
+            "x": -162.17338243354772,
+            "y": 6.9968533373947395,
+            "url": {
+                "dialect": "sqlite",
+                "username": "",
+                "password": "",
+                "host": "",
+                "port": "",
+                "database": {
+                    "type": "path",
+                    "relative": false,
+                    "path": "/home/u0128861/Desktop/Spine_Periods_Example/spine-periods-demo/data/Belgium_2017_orderer.sqlite"
+                }
+            },
+            "cancel_on_error": false
+        },
+        "Opt output": {
+            "type": "Data Store",
+            "description": "",
+            "x": 167.33744493354772,
+            "y": 6.07266067292332,
+            "url": {
+                "dialect": "sqlite",
+                "username": "",
+                "password": "",
+                "host": "",
+                "port": "",
+                "database": {
+                    "type": "path",
+                    "relative": false,
+                    "path": "/home/u0128861/Desktop/Spine_Periods_Example/spine-periods-demo/data/Belgium_2017_orderer_opt_out.sqlite"
+                }
+            },
+            "cancel_on_error": false
+        }
+    }
+}
