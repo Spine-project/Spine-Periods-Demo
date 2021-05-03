@@ -2,8 +2,8 @@ cd(@__DIR__)
 using Pkg
 Pkg.activate(@__DIR__)
 
-Pkg.instantiate()
+Pkg.add(url="https://github.com/Spine-project/SpinePeriods.jl.git")
 
-Pkg.develop(path=joinpath("..", "SpinePeriods.jl"))
+Pkg.instantiate()
 
 include(joinpath(@__DIR__, "functions.jl"))

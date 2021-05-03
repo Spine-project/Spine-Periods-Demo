@@ -10,8 +10,8 @@
         "Rep days order output": {
             "type": "Data Store",
             "description": "",
-            "x": 4.062530175685083,
-            "y": -2.9968533373947395,
+            "x": 3.0549046121748944,
+            "y": 4.0565256071765745,
             "url": {
                 "dialect": "sqlite",
                 "username": "",
@@ -29,8 +29,8 @@
         "Rep days orderer": {
             "type": "Data Store",
             "description": "",
-            "x": -162.17338243354772,
-            "y": 6.9968533373947395,
+            "x": -159.15050574301713,
+            "y": -0.05652560717657451,
             "url": {
                 "dialect": "sqlite",
                 "username": "",
@@ -48,8 +48,8 @@
         "Opt output": {
             "type": "Data Store",
             "description": "",
-            "x": 167.33744493354772,
-            "y": 6.07266067292332,
+            "x": 166.32981937003754,
+            "y": 1.0345328553723832,
             "url": {
                 "dialect": "sqlite",
                 "username": "",

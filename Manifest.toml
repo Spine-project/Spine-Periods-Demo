@@ -380,7 +380,9 @@ version = "0.5.4"
 
 [[SpinePeriods]]
 deps = ["Dates", "JSON", "JuMP", "SpineInterface", "SpineOpt", "URIParser"]
-path = "../SpinePeriods.jl"
+git-tree-sha1 = "9e426e879a7d51d9d42b442a471d48e4ac366945"
+repo-rev = "master"
+repo-url = "https://github.com/Spine-project/SpinePeriods.jl.git"
 uuid = "163584a9-52e1-4a4e-9262-a8c2d5456af4"
 version = "0.1.0"
 

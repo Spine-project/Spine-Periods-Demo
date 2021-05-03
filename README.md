@@ -1,7 +1,7 @@
 ## TODO list
 This is all assuming I've got this to work.
+* Add python environment setup
 * Add SpinePeriods to the Spine Julia Registry once release is done (Manuel).
-* Don't dev SpinePeriods, just add it from GitHub.
 * Set up a proper `init.jl` file, i.e., specifying git commits and or versions (not necessary for Toolbox, just specify in README).
 * Finish for use of the demo.
 
@@ -21,13 +21,13 @@ Getting started
 
 1\. Download or clone the files to your computer, e.g.:
 
-    > git clone ???
+    > git clone git@github.com:Spine-project/Spine-Periods-Demo.git
 
    (The recommended folder is the folder you store your spine projects in, but can be anywhere, for example your desktop.)
 
 2\. Change the current directory to spine project "spine-periods-demo":
 
-    > cd spine-periods-demo
+    > cd Spine-Periods-Demo
 	
 3\. Install required Python packages:
 	
