@@ -33,7 +33,7 @@ The figure below illustrates this graphically for the case where a representativ
 
 ![Illustration of representative period mapping](figures/representative_period_mapping.png)
 
-For further information, see [SpinePeriods.jl](https://github.com/Spine-project/SpinePeriods.jl) and the [SpineOpt.jl documentation](https://spine-project.github.io/SpineOpt.jl/latest/advanced_concepts/representative_days_w_seasonal_storage/). 
+The purpose of `SpinePeriods.jl` is to create such a mapping which is then used by `SpineOpt.jl` in a similar fashion to the above figure. For further information, see [SpinePeriods.jl](https://github.com/Spine-project/SpinePeriods.jl) and the [SpineOpt.jl documentation](https://spine-project.github.io/SpineOpt.jl/latest/advanced_concepts/representative_days_w_seasonal_storage/).
 
 Getting started
 ---------------

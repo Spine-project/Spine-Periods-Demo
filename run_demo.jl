@@ -16,6 +16,6 @@ run_spine_periods("sqlite:///$(db_url_in)", "sqlite:///$(db_url_out)";
 
 add_temporal_block_relationships_to_spine_db("sqlite:///$(db_url_out)")
 
-run_spineopt("sqlite:///$(db_url_out)", "sqlite:///$(db_opt_url_out)")
+m = run_spineopt("sqlite:///$(db_url_out)", "sqlite:///$(db_opt_url_out)")
 
 clean_up_spine_dbs(db_url_out, db_opt_url_out)
