@@ -16,6 +16,25 @@ Requirements
 * Spine Toolbox v0.5.36 or later (see https://github.com/Spine-project/Spine-Toolbox)
 * Julia 1.5 or later (see https://julialang.org/)
 
+Concept
+-------
+
+Investment models typically model a reduced set of time slices (or operation points) to achieve computational speedups or keep the problem tractable. Instead of optimising over a full year of 8760 hours, a set of representative hours, days, weeks or months may be used, with a typical choice being between 5 - 50 days. 
+
+However, the value of long term storage, such as large scale pumped hydro or power to gas, may not be fully captured when using representative days, as these typically arbitrage over an entire year. The figure below illustrates this (source[https://lirias.kuleuven.be/retrieve/531420]).
+
+![Storage state of charge evolution for battery and power to gas](figures/storage_state_of_charge_1.png)
+
+![Zoomed in storage state of charge evolution for battery and power to gas](figures/storage_state_of_charge_2.png)
+
+One way of integrating long term storage while using representative days (which works reasonable well) is to map the charging and discharging variables on representative days to non-representative days. The state of charge is then defined for the entire year and its evolution is determined by the charging and discharging variables which are also defined for the entire year thanks to the mapping.
+
+The figure below illustrates this graphically for the case where a representative period has a single time slice and there are 30 periods in the year, 6 of which are representative ([source](https://www.mech.kuleuven.be/en/tme/research/energy-systems-integration-modeling/pdf-publications/wp-esim2021-1)).
+
+![Illustration of representative period mapping](figures/representative_period_mapping.png)
+
+For further information, see [SpinePeriods.jl](https://github.com/Spine-project/SpinePeriods.jl) and the [SpineOpt.jl documentation](https://spine-project.github.io/SpineOpt.jl/latest/advanced_concepts/representative_days_w_seasonal_storage/). 
+
 Getting started
 ---------------
 
