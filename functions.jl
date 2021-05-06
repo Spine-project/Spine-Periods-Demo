@@ -1,4 +1,10 @@
-using SpineOpt
+using SpineOpt, JSON
+
+function add_temporal_blocks_to_spine_db(url::String, json_out::String)
+    d = JSON.parsefile(json_out)
+    SpineOpt.import_data(url, d, "Adding representative period temporal_blocks")
+    return nothing
+end
 
 function add_temporal_block_relationships_to_spine_db(url::String)
     SpineOpt.using_spinedb(url, SpineOpt)
@@ -57,10 +63,10 @@ function add_temporal_block_relationships_to_spine_db(url::String)
                 [
                     :units_on__temporal_block, [u.name, :all_representative_periods],
                 ]
-                for u in SpineOpt.unit() if u.name != Symbol("All Units")
+                for u in SpineOpt.unit() # if u.name != Symbol("All Units")
             ]
         ),
-        "Adding node__temporal_block relationship."
+        "Adding units_on__temporal_block relationship."
     )
 
     SpineOpt.import_data(
@@ -100,4 +106,8 @@ function clean_up_spine_dbs(args... ;force=false)
     else
         error()
     end
+end
+
+function duplicate_spine_db(db_url::String, db_url_out::String)
+    cp(db_url, db_url_out; force=true)
 end

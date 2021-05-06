@@ -15,13 +15,19 @@ Requirements
 
 * Spine Toolbox v0.5.36 or later (see https://github.com/Spine-project/Spine-Toolbox)
 * Julia 1.5 or later (see https://julialang.org/)
+* SpineOpt 0.5.6 (see https://github.com/Spine-project/SpineOpt.jl) \*
+* SpinePeriods 0.1.0 (see https://github.com/Spine-project/SpinePeriods.jl) \*
+
+\* indicates packages whose versions must be respected. It is highly likely that this demo will not work otherwise.
+
+For additional requirements see the `Project.toml` file (version numbers can be found in `Manifest.toml`).
 
 Concept
 -------
 
 Investment models typically model a reduced set of time slices (or operation points) to achieve computational speedups or keep the problem tractable. Instead of optimising over a full year of 8760 hours, a set of representative hours, days, weeks or months may be used, with a typical choice being between 5 - 50 days. 
 
-However, the value of long term storage, such as large scale pumped hydro or power to gas, may not be fully captured when using representative days, as these typically arbitrage over an entire year. The figure below illustrates this (source[https://lirias.kuleuven.be/retrieve/531420]).
+However, the value of long term storage, such as large scale pumped hydro or power to gas, may not be fully captured when using representative days, as these typically arbitrage over an entire year. The figure below illustrates this ([source](https://lirias.kuleuven.be/retrieve/531420)).
 
 ![Storage state of charge evolution for battery and power to gas](figures/storage_state_of_charge_1.png)
 
@@ -50,7 +56,7 @@ Getting started
 	
 3\. Install required Python packages:
 	
-	> NOT DONE YET
+	> NOT DONE YET (Is this required?)
 
 4\. Install required Julia packages:
 
@@ -70,4 +76,6 @@ Getting started
 
 8\. Open the results of the optimisation by double clicking on `Opt output`
 
-9\. You can inspect e.g. the battery state of charge by clicking on ...
+9\. You can inspect e.g. the battery state of charge by clicking on `root --> node --> Battery Node` and then in the `Relationship parameter value` window (right hand side of the Spine DB editor) click on `report__node__stocastic_scenario --> Time series` (under column `value`). You should see something like this:
+
+![Example of battery state of charge](figures/example_battery_node_state.png)
