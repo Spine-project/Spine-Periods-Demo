@@ -3,12 +3,52 @@
         [
             "temporal_block",
             "all_representative_periods",
-            "rp_W31"
+            "rp_W10"
+        ],
+        [
+            "temporal_block",
+            "all_representative_periods",
+            "rp_W12"
+        ],
+        [
+            "temporal_block",
+            "all_representative_periods",
+            "rp_W20"
+        ],
+        [
+            "temporal_block",
+            "all_representative_periods",
+            "rp_W21"
+        ],
+        [
+            "temporal_block",
+            "all_representative_periods",
+            "rp_W25"
         ],
         [
             "temporal_block",
             "all_representative_periods",
             "rp_W33"
+        ],
+        [
+            "temporal_block",
+            "all_representative_periods",
+            "rp_W47"
+        ],
+        [
+            "temporal_block",
+            "all_representative_periods",
+            "rp_W101"
+        ],
+        [
+            "temporal_block",
+            "all_representative_periods",
+            "rp_W107"
+        ],
+        [
+            "temporal_block",
+            "all_representative_periods",
+            "rp_W112"
         ],
         [
             "temporal_block",
@@ -23,12 +63,17 @@
         [
             "temporal_block",
             "all_representative_periods",
+            "rp_W150"
+        ],
+        [
+            "temporal_block",
+            "all_representative_periods",
             "rp_W151"
         ],
         [
             "temporal_block",
             "all_representative_periods",
-            "rp_W154"
+            "rp_W156"
         ],
         [
             "temporal_block",
@@ -38,12 +83,57 @@
         [
             "temporal_block",
             "all_representative_periods",
-            "rp_W200"
+            "rp_W192"
         ],
         [
             "temporal_block",
             "all_representative_periods",
-            "rp_W271"
+            "rp_W204"
+        ],
+        [
+            "temporal_block",
+            "all_representative_periods",
+            "rp_W206"
+        ],
+        [
+            "temporal_block",
+            "all_representative_periods",
+            "rp_W228"
+        ],
+        [
+            "temporal_block",
+            "all_representative_periods",
+            "rp_W245"
+        ],
+        [
+            "temporal_block",
+            "all_representative_periods",
+            "rp_W256"
+        ],
+        [
+            "temporal_block",
+            "all_representative_periods",
+            "rp_W262"
+        ],
+        [
+            "temporal_block",
+            "all_representative_periods",
+            "rp_W276"
+        ],
+        [
+            "temporal_block",
+            "all_representative_periods",
+            "rp_W286"
+        ],
+        [
+            "temporal_block",
+            "all_representative_periods",
+            "rp_W290"
+        ],
+        [
+            "temporal_block",
+            "all_representative_periods",
+            "rp_W301"
         ],
         [
             "temporal_block",
@@ -53,12 +143,22 @@
         [
             "temporal_block",
             "all_representative_periods",
-            "rp_W330"
+            "rp_W322"
+        ],
+        [
+            "temporal_block",
+            "all_representative_periods",
+            "rp_W323"
         ],
         [
             "temporal_block",
             "all_representative_periods",
             "rp_W337"
+        ],
+        [
+            "temporal_block",
+            "all_representative_periods",
+            "rp_W341"
         ]
     ],
     "object_parameters": [
@@ -74,11 +174,43 @@
         ],
         [
             "temporal_block",
-            "rp_W31"
+            "rp_W10"
+        ],
+        [
+            "temporal_block",
+            "rp_W12"
+        ],
+        [
+            "temporal_block",
+            "rp_W20"
+        ],
+        [
+            "temporal_block",
+            "rp_W21"
+        ],
+        [
+            "temporal_block",
+            "rp_W25"
         ],
         [
             "temporal_block",
             "rp_W33"
+        ],
+        [
+            "temporal_block",
+            "rp_W47"
+        ],
+        [
+            "temporal_block",
+            "rp_W101"
+        ],
+        [
+            "temporal_block",
+            "rp_W107"
+        ],
+        [
+            "temporal_block",
+            "rp_W112"
         ],
         [
             "temporal_block",
@@ -90,11 +222,15 @@
         ],
         [
             "temporal_block",
+            "rp_W150"
+        ],
+        [
+            "temporal_block",
             "rp_W151"
         ],
         [
             "temporal_block",
-            "rp_W154"
+            "rp_W156"
         ],
         [
             "temporal_block",
@@ -102,11 +238,47 @@
         ],
         [
             "temporal_block",
-            "rp_W200"
+            "rp_W192"
         ],
         [
             "temporal_block",
-            "rp_W271"
+            "rp_W204"
+        ],
+        [
+            "temporal_block",
+            "rp_W206"
+        ],
+        [
+            "temporal_block",
+            "rp_W228"
+        ],
+        [
+            "temporal_block",
+            "rp_W245"
+        ],
+        [
+            "temporal_block",
+            "rp_W256"
+        ],
+        [
+            "temporal_block",
+            "rp_W262"
+        ],
+        [
+            "temporal_block",
+            "rp_W276"
+        ],
+        [
+            "temporal_block",
+            "rp_W286"
+        ],
+        [
+            "temporal_block",
+            "rp_W290"
+        ],
+        [
+            "temporal_block",
+            "rp_W301"
         ],
         [
             "temporal_block",
@@ -114,35 +286,43 @@
         ],
         [
             "temporal_block",
-            "rp_W330"
+            "rp_W322"
+        ],
+        [
+            "temporal_block",
+            "rp_W323"
         ],
         [
             "temporal_block",
             "rp_W337"
+        ],
+        [
+            "temporal_block",
+            "rp_W341"
         ]
     ],
     "object_parameter_values": [
         [
             "temporal_block",
-            "rp_W31",
+            "rp_W10",
             "block_start",
             {
-                "data": "2017-01-31T00:00",
+                "data": "2017-01-10T00:00",
                 "type": "date_time"
             }
         ],
         [
             "temporal_block",
-            "rp_W31",
+            "rp_W10",
             "block_end",
             {
-                "data": "2017-02-01T00:00",
+                "data": "2017-01-11T00:00",
                 "type": "date_time"
             }
         ],
         [
             "temporal_block",
-            "rp_W31",
+            "rp_W10",
             "resolution",
             {
                 "data": "1h",
@@ -151,9 +331,141 @@
         ],
         [
             "temporal_block",
-            "rp_W31",
+            "rp_W10",
             "weight",
-            25.0
+            11.0
+        ],
+        [
+            "temporal_block",
+            "rp_W12",
+            "block_start",
+            {
+                "data": "2017-01-12T00:00",
+                "type": "date_time"
+            }
+        ],
+        [
+            "temporal_block",
+            "rp_W12",
+            "block_end",
+            {
+                "data": "2017-01-13T00:00",
+                "type": "date_time"
+            }
+        ],
+        [
+            "temporal_block",
+            "rp_W12",
+            "resolution",
+            {
+                "data": "1h",
+                "type": "duration"
+            }
+        ],
+        [
+            "temporal_block",
+            "rp_W12",
+            "weight",
+            7.0
+        ],
+        [
+            "temporal_block",
+            "rp_W20",
+            "block_start",
+            {
+                "data": "2017-01-20T00:00",
+                "type": "date_time"
+            }
+        ],
+        [
+            "temporal_block",
+            "rp_W20",
+            "block_end",
+            {
+                "data": "2017-01-21T00:00",
+                "type": "date_time"
+            }
+        ],
+        [
+            "temporal_block",
+            "rp_W20",
+            "resolution",
+            {
+                "data": "1h",
+                "type": "duration"
+            }
+        ],
+        [
+            "temporal_block",
+            "rp_W20",
+            "weight",
+            4.0
+        ],
+        [
+            "temporal_block",
+            "rp_W21",
+            "block_start",
+            {
+                "data": "2017-01-21T00:00",
+                "type": "date_time"
+            }
+        ],
+        [
+            "temporal_block",
+            "rp_W21",
+            "block_end",
+            {
+                "data": "2017-01-22T00:00",
+                "type": "date_time"
+            }
+        ],
+        [
+            "temporal_block",
+            "rp_W21",
+            "resolution",
+            {
+                "data": "1h",
+                "type": "duration"
+            }
+        ],
+        [
+            "temporal_block",
+            "rp_W21",
+            "weight",
+            5.0
+        ],
+        [
+            "temporal_block",
+            "rp_W25",
+            "block_start",
+            {
+                "data": "2017-01-25T00:00",
+                "type": "date_time"
+            }
+        ],
+        [
+            "temporal_block",
+            "rp_W25",
+            "block_end",
+            {
+                "data": "2017-01-26T00:00",
+                "type": "date_time"
+            }
+        ],
+        [
+            "temporal_block",
+            "rp_W25",
+            "resolution",
+            {
+                "data": "1h",
+                "type": "duration"
+            }
+        ],
+        [
+            "temporal_block",
+            "rp_W25",
+            "weight",
+            9.0
         ],
         [
             "temporal_block",
@@ -186,7 +498,139 @@
             "temporal_block",
             "rp_W33",
             "weight",
-            31.0
+            10.0
+        ],
+        [
+            "temporal_block",
+            "rp_W47",
+            "block_start",
+            {
+                "data": "2017-02-16T00:00",
+                "type": "date_time"
+            }
+        ],
+        [
+            "temporal_block",
+            "rp_W47",
+            "block_end",
+            {
+                "data": "2017-02-17T00:00",
+                "type": "date_time"
+            }
+        ],
+        [
+            "temporal_block",
+            "rp_W47",
+            "resolution",
+            {
+                "data": "1h",
+                "type": "duration"
+            }
+        ],
+        [
+            "temporal_block",
+            "rp_W47",
+            "weight",
+            9.0
+        ],
+        [
+            "temporal_block",
+            "rp_W101",
+            "block_start",
+            {
+                "data": "2017-04-11T00:00",
+                "type": "date_time"
+            }
+        ],
+        [
+            "temporal_block",
+            "rp_W101",
+            "block_end",
+            {
+                "data": "2017-04-12T00:00",
+                "type": "date_time"
+            }
+        ],
+        [
+            "temporal_block",
+            "rp_W101",
+            "resolution",
+            {
+                "data": "1h",
+                "type": "duration"
+            }
+        ],
+        [
+            "temporal_block",
+            "rp_W101",
+            "weight",
+            10.0
+        ],
+        [
+            "temporal_block",
+            "rp_W107",
+            "block_start",
+            {
+                "data": "2017-04-17T00:00",
+                "type": "date_time"
+            }
+        ],
+        [
+            "temporal_block",
+            "rp_W107",
+            "block_end",
+            {
+                "data": "2017-04-18T00:00",
+                "type": "date_time"
+            }
+        ],
+        [
+            "temporal_block",
+            "rp_W107",
+            "resolution",
+            {
+                "data": "1h",
+                "type": "duration"
+            }
+        ],
+        [
+            "temporal_block",
+            "rp_W107",
+            "weight",
+            7.0
+        ],
+        [
+            "temporal_block",
+            "rp_W112",
+            "block_start",
+            {
+                "data": "2017-04-22T00:00",
+                "type": "date_time"
+            }
+        ],
+        [
+            "temporal_block",
+            "rp_W112",
+            "block_end",
+            {
+                "data": "2017-04-23T00:00",
+                "type": "date_time"
+            }
+        ],
+        [
+            "temporal_block",
+            "rp_W112",
+            "resolution",
+            {
+                "data": "1h",
+                "type": "duration"
+            }
+        ],
+        [
+            "temporal_block",
+            "rp_W112",
+            "weight",
+            7.0
         ],
         [
             "temporal_block",
@@ -219,7 +663,7 @@
             "temporal_block",
             "rp_W117",
             "weight",
-            31.0
+            15.0
         ],
         [
             "temporal_block",
@@ -252,7 +696,40 @@
             "temporal_block",
             "rp_W141",
             "weight",
-            36.0
+            15.0
+        ],
+        [
+            "temporal_block",
+            "rp_W150",
+            "block_start",
+            {
+                "data": "2017-05-30T00:00",
+                "type": "date_time"
+            }
+        ],
+        [
+            "temporal_block",
+            "rp_W150",
+            "block_end",
+            {
+                "data": "2017-05-31T00:00",
+                "type": "date_time"
+            }
+        ],
+        [
+            "temporal_block",
+            "rp_W150",
+            "resolution",
+            {
+                "data": "1h",
+                "type": "duration"
+            }
+        ],
+        [
+            "temporal_block",
+            "rp_W150",
+            "weight",
+            13.0
         ],
         [
             "temporal_block",
@@ -285,29 +762,29 @@
             "temporal_block",
             "rp_W151",
             "weight",
-            43.0
+            29.0
         ],
         [
             "temporal_block",
-            "rp_W154",
+            "rp_W156",
             "block_start",
             {
-                "data": "2017-06-03T00:00",
+                "data": "2017-06-05T00:00",
                 "type": "date_time"
             }
         ],
         [
             "temporal_block",
-            "rp_W154",
+            "rp_W156",
             "block_end",
             {
-                "data": "2017-06-04T00:00",
+                "data": "2017-06-06T00:00",
                 "type": "date_time"
             }
         ],
         [
             "temporal_block",
-            "rp_W154",
+            "rp_W156",
             "resolution",
             {
                 "data": "1h",
@@ -316,9 +793,9 @@
         ],
         [
             "temporal_block",
-            "rp_W154",
+            "rp_W156",
             "weight",
-            35.0
+            13.0
         ],
         [
             "temporal_block",
@@ -351,29 +828,29 @@
             "temporal_block",
             "rp_W175",
             "weight",
-            19.0
+            11.0
         ],
         [
             "temporal_block",
-            "rp_W200",
+            "rp_W192",
             "block_start",
             {
-                "data": "2017-07-19T00:00",
+                "data": "2017-07-11T00:00",
                 "type": "date_time"
             }
         ],
         [
             "temporal_block",
-            "rp_W200",
+            "rp_W192",
             "block_end",
             {
-                "data": "2017-07-20T00:00",
+                "data": "2017-07-12T00:00",
                 "type": "date_time"
             }
         ],
         [
             "temporal_block",
-            "rp_W200",
+            "rp_W192",
             "resolution",
             {
                 "data": "1h",
@@ -382,31 +859,31 @@
         ],
         [
             "temporal_block",
-            "rp_W200",
+            "rp_W192",
             "weight",
-            26.0
+            13.0
         ],
         [
             "temporal_block",
-            "rp_W271",
+            "rp_W204",
             "block_start",
             {
-                "data": "2017-09-28T00:00",
+                "data": "2017-07-23T00:00",
                 "type": "date_time"
             }
         ],
         [
             "temporal_block",
-            "rp_W271",
+            "rp_W204",
             "block_end",
             {
-                "data": "2017-09-29T00:00",
+                "data": "2017-07-24T00:00",
                 "type": "date_time"
             }
         ],
         [
             "temporal_block",
-            "rp_W271",
+            "rp_W204",
             "resolution",
             {
                 "data": "1h",
@@ -415,9 +892,306 @@
         ],
         [
             "temporal_block",
-            "rp_W271",
+            "rp_W204",
             "weight",
-            49.0
+            3.0
+        ],
+        [
+            "temporal_block",
+            "rp_W206",
+            "block_start",
+            {
+                "data": "2017-07-25T00:00",
+                "type": "date_time"
+            }
+        ],
+        [
+            "temporal_block",
+            "rp_W206",
+            "block_end",
+            {
+                "data": "2017-07-26T00:00",
+                "type": "date_time"
+            }
+        ],
+        [
+            "temporal_block",
+            "rp_W206",
+            "resolution",
+            {
+                "data": "1h",
+                "type": "duration"
+            }
+        ],
+        [
+            "temporal_block",
+            "rp_W206",
+            "weight",
+            14.0
+        ],
+        [
+            "temporal_block",
+            "rp_W228",
+            "block_start",
+            {
+                "data": "2017-08-16T00:00",
+                "type": "date_time"
+            }
+        ],
+        [
+            "temporal_block",
+            "rp_W228",
+            "block_end",
+            {
+                "data": "2017-08-17T00:00",
+                "type": "date_time"
+            }
+        ],
+        [
+            "temporal_block",
+            "rp_W228",
+            "resolution",
+            {
+                "data": "1h",
+                "type": "duration"
+            }
+        ],
+        [
+            "temporal_block",
+            "rp_W228",
+            "weight",
+            11.0
+        ],
+        [
+            "temporal_block",
+            "rp_W245",
+            "block_start",
+            {
+                "data": "2017-09-02T00:00",
+                "type": "date_time"
+            }
+        ],
+        [
+            "temporal_block",
+            "rp_W245",
+            "block_end",
+            {
+                "data": "2017-09-03T00:00",
+                "type": "date_time"
+            }
+        ],
+        [
+            "temporal_block",
+            "rp_W245",
+            "resolution",
+            {
+                "data": "1h",
+                "type": "duration"
+            }
+        ],
+        [
+            "temporal_block",
+            "rp_W245",
+            "weight",
+            17.0
+        ],
+        [
+            "temporal_block",
+            "rp_W256",
+            "block_start",
+            {
+                "data": "2017-09-13T00:00",
+                "type": "date_time"
+            }
+        ],
+        [
+            "temporal_block",
+            "rp_W256",
+            "block_end",
+            {
+                "data": "2017-09-14T00:00",
+                "type": "date_time"
+            }
+        ],
+        [
+            "temporal_block",
+            "rp_W256",
+            "resolution",
+            {
+                "data": "1h",
+                "type": "duration"
+            }
+        ],
+        [
+            "temporal_block",
+            "rp_W256",
+            "weight",
+            8.0
+        ],
+        [
+            "temporal_block",
+            "rp_W262",
+            "block_start",
+            {
+                "data": "2017-09-19T00:00",
+                "type": "date_time"
+            }
+        ],
+        [
+            "temporal_block",
+            "rp_W262",
+            "block_end",
+            {
+                "data": "2017-09-20T00:00",
+                "type": "date_time"
+            }
+        ],
+        [
+            "temporal_block",
+            "rp_W262",
+            "resolution",
+            {
+                "data": "1h",
+                "type": "duration"
+            }
+        ],
+        [
+            "temporal_block",
+            "rp_W262",
+            "weight",
+            18.0
+        ],
+        [
+            "temporal_block",
+            "rp_W276",
+            "block_start",
+            {
+                "data": "2017-10-03T00:00",
+                "type": "date_time"
+            }
+        ],
+        [
+            "temporal_block",
+            "rp_W276",
+            "block_end",
+            {
+                "data": "2017-10-04T00:00",
+                "type": "date_time"
+            }
+        ],
+        [
+            "temporal_block",
+            "rp_W276",
+            "resolution",
+            {
+                "data": "1h",
+                "type": "duration"
+            }
+        ],
+        [
+            "temporal_block",
+            "rp_W276",
+            "weight",
+            13.0
+        ],
+        [
+            "temporal_block",
+            "rp_W286",
+            "block_start",
+            {
+                "data": "2017-10-13T00:00",
+                "type": "date_time"
+            }
+        ],
+        [
+            "temporal_block",
+            "rp_W286",
+            "block_end",
+            {
+                "data": "2017-10-14T00:00",
+                "type": "date_time"
+            }
+        ],
+        [
+            "temporal_block",
+            "rp_W286",
+            "resolution",
+            {
+                "data": "1h",
+                "type": "duration"
+            }
+        ],
+        [
+            "temporal_block",
+            "rp_W286",
+            "weight",
+            13.0
+        ],
+        [
+            "temporal_block",
+            "rp_W290",
+            "block_start",
+            {
+                "data": "2017-10-17T00:00",
+                "type": "date_time"
+            }
+        ],
+        [
+            "temporal_block",
+            "rp_W290",
+            "block_end",
+            {
+                "data": "2017-10-18T00:00",
+                "type": "date_time"
+            }
+        ],
+        [
+            "temporal_block",
+            "rp_W290",
+            "resolution",
+            {
+                "data": "1h",
+                "type": "duration"
+            }
+        ],
+        [
+            "temporal_block",
+            "rp_W290",
+            "weight",
+            11.0
+        ],
+        [
+            "temporal_block",
+            "rp_W301",
+            "block_start",
+            {
+                "data": "2017-10-28T00:00",
+                "type": "date_time"
+            }
+        ],
+        [
+            "temporal_block",
+            "rp_W301",
+            "block_end",
+            {
+                "data": "2017-10-29T00:00",
+                "type": "date_time"
+            }
+        ],
+        [
+            "temporal_block",
+            "rp_W301",
+            "resolution",
+            {
+                "data": "1h",
+                "type": "duration"
+            }
+        ],
+        [
+            "temporal_block",
+            "rp_W301",
+            "weight",
+            9.0
         ],
         [
             "temporal_block",
@@ -450,29 +1224,29 @@
             "temporal_block",
             "rp_W320",
             "weight",
-            31.0
+            20.0
         ],
         [
             "temporal_block",
-            "rp_W330",
+            "rp_W322",
             "block_start",
             {
-                "data": "2017-11-26T00:00",
+                "data": "2017-11-18T00:00",
                 "type": "date_time"
             }
         ],
         [
             "temporal_block",
-            "rp_W330",
+            "rp_W322",
             "block_end",
             {
-                "data": "2017-11-27T00:00",
+                "data": "2017-11-19T00:00",
                 "type": "date_time"
             }
         ],
         [
             "temporal_block",
-            "rp_W330",
+            "rp_W322",
             "resolution",
             {
                 "data": "1h",
@@ -481,9 +1255,42 @@
         ],
         [
             "temporal_block",
-            "rp_W330",
+            "rp_W322",
             "weight",
-            18.0
+            11.0
+        ],
+        [
+            "temporal_block",
+            "rp_W323",
+            "block_start",
+            {
+                "data": "2017-11-19T00:00",
+                "type": "date_time"
+            }
+        ],
+        [
+            "temporal_block",
+            "rp_W323",
+            "block_end",
+            {
+                "data": "2017-11-20T00:00",
+                "type": "date_time"
+            }
+        ],
+        [
+            "temporal_block",
+            "rp_W323",
+            "resolution",
+            {
+                "data": "1h",
+                "type": "duration"
+            }
+        ],
+        [
+            "temporal_block",
+            "rp_W323",
+            "weight",
+            7.0
         ],
         [
             "temporal_block",
@@ -516,7 +1323,40 @@
             "temporal_block",
             "rp_W337",
             "weight",
-            21.0
+            10.0
+        ],
+        [
+            "temporal_block",
+            "rp_W341",
+            "block_start",
+            {
+                "data": "2017-12-07T00:00",
+                "type": "date_time"
+            }
+        ],
+        [
+            "temporal_block",
+            "rp_W341",
+            "block_end",
+            {
+                "data": "2017-12-08T00:00",
+                "type": "date_time"
+            }
+        ],
+        [
+            "temporal_block",
+            "rp_W341",
+            "resolution",
+            {
+                "data": "1h",
+                "type": "duration"
+            }
+        ],
+        [
+            "temporal_block",
+            "rp_W341",
+            "weight",
+            12.0
         ],
         [
             "temporal_block",
@@ -526,7 +1366,7 @@
                 "data": [
                     [
                         "2017-01-01T00:00",
-                        "rp_W330"
+                        "rp_W323"
                     ],
                     [
                         "2017-01-02T00:00",
@@ -538,19 +1378,19 @@
                     ],
                     [
                         "2017-01-04T00:00",
-                        "rp_W33"
+                        "rp_W12"
                     ],
                     [
                         "2017-01-05T00:00",
-                        "rp_W31"
+                        "rp_W10"
                     ],
                     [
                         "2017-01-06T00:00",
-                        "rp_W31"
+                        "rp_W20"
                     ],
                     [
                         "2017-01-07T00:00",
-                        "rp_W320"
+                        "rp_W21"
                     ],
                     [
                         "2017-01-08T00:00",
@@ -558,11 +1398,11 @@
                     ],
                     [
                         "2017-01-09T00:00",
-                        "rp_W320"
+                        "rp_W12"
                     ],
                     [
                         "2017-01-10T00:00",
-                        "rp_W31"
+                        "rp_W10"
                     ],
                     [
                         "2017-01-11T00:00",
@@ -570,11 +1410,11 @@
                     ],
                     [
                         "2017-01-12T00:00",
-                        "rp_W33"
+                        "rp_W12"
                     ],
                     [
                         "2017-01-13T00:00",
-                        "rp_W31"
+                        "rp_W12"
                     ],
                     [
                         "2017-01-14T00:00",
@@ -582,71 +1422,71 @@
                     ],
                     [
                         "2017-01-15T00:00",
-                        "rp_W337"
+                        "rp_W21"
                     ],
                     [
                         "2017-01-16T00:00",
-                        "rp_W31"
+                        "rp_W25"
                     ],
                     [
                         "2017-01-17T00:00",
-                        "rp_W31"
+                        "rp_W25"
                     ],
                     [
                         "2017-01-18T00:00",
-                        "rp_W31"
+                        "rp_W25"
                     ],
                     [
                         "2017-01-19T00:00",
-                        "rp_W31"
+                        "rp_W20"
                     ],
                     [
                         "2017-01-20T00:00",
-                        "rp_W31"
+                        "rp_W20"
                     ],
                     [
                         "2017-01-21T00:00",
-                        "rp_W337"
+                        "rp_W21"
                     ],
                     [
                         "2017-01-22T00:00",
-                        "rp_W337"
+                        "rp_W21"
                     ],
                     [
                         "2017-01-23T00:00",
-                        "rp_W31"
+                        "rp_W25"
                     ],
                     [
                         "2017-01-24T00:00",
-                        "rp_W31"
+                        "rp_W25"
                     ],
                     [
                         "2017-01-25T00:00",
-                        "rp_W31"
+                        "rp_W25"
                     ],
                     [
                         "2017-01-26T00:00",
-                        "rp_W31"
+                        "rp_W25"
                     ],
                     [
                         "2017-01-27T00:00",
-                        "rp_W31"
+                        "rp_W20"
                     ],
                     [
                         "2017-01-28T00:00",
-                        "rp_W337"
+                        "rp_W322"
                     ],
                     [
                         "2017-01-29T00:00",
-                        "rp_W330"
+                        "rp_W322"
                     ],
                     [
                         "2017-01-30T00:00",
-                        "rp_W320"
+                        "rp_W10"
                     ],
                     [
                         "2017-01-31T00:00",
-                        "rp_W31"
+                        "rp_W10"
                     ],
                     [
                         "2017-02-01T00:00",
@@ -674,23 +1514,23 @@
                     ],
                     [
                         "2017-02-07T00:00",
-                        "rp_W31"
+                        "rp_W10"
                     ],
                     [
                         "2017-02-08T00:00",
-                        "rp_W31"
+                        "rp_W10"
                     ],
                     [
                         "2017-02-09T00:00",
-                        "rp_W31"
+                        "rp_W25"
                     ],
                     [
                         "2017-02-10T00:00",
-                        "rp_W31"
+                        "rp_W25"
                     ],
                     [
                         "2017-02-11T00:00",
-                        "rp_W320"
+                        "rp_W21"
                     ],
                     [
                         "2017-02-12T00:00",
@@ -702,15 +1542,15 @@
                     ],
                     [
                         "2017-02-14T00:00",
-                        "rp_W33"
+                        "rp_W47"
                     ],
                     [
                         "2017-02-15T00:00",
-                        "rp_W33"
+                        "rp_W47"
                     ],
                     [
                         "2017-02-16T00:00",
-                        "rp_W320"
+                        "rp_W47"
                     ],
                     [
                         "2017-02-17T00:00",
@@ -722,11 +1562,11 @@
                     ],
                     [
                         "2017-02-19T00:00",
-                        "rp_W330"
+                        "rp_W323"
                     ],
                     [
                         "2017-02-20T00:00",
-                        "rp_W33"
+                        "rp_W341"
                     ],
                     [
                         "2017-02-21T00:00",
@@ -734,27 +1574,27 @@
                     ],
                     [
                         "2017-02-22T00:00",
-                        "rp_W33"
+                        "rp_W341"
                     ],
                     [
                         "2017-02-23T00:00",
-                        "rp_W33"
+                        "rp_W341"
                     ],
                     [
                         "2017-02-24T00:00",
-                        "rp_W320"
+                        "rp_W47"
                     ],
                     [
                         "2017-02-25T00:00",
-                        "rp_W330"
+                        "rp_W322"
                     ],
                     [
                         "2017-02-26T00:00",
-                        "rp_W330"
+                        "rp_W301"
                     ],
                     [
                         "2017-02-27T00:00",
-                        "rp_W33"
+                        "rp_W341"
                     ],
                     [
                         "2017-02-28T00:00",
@@ -766,35 +1606,35 @@
                     ],
                     [
                         "2017-03-02T00:00",
-                        "rp_W33"
+                        "rp_W341"
                     ],
                     [
                         "2017-03-03T00:00",
-                        "rp_W33"
+                        "rp_W47"
                     ],
                     [
                         "2017-03-04T00:00",
-                        "rp_W337"
+                        "rp_W322"
                     ],
                     [
                         "2017-03-05T00:00",
-                        "rp_W330"
+                        "rp_W301"
                     ],
                     [
                         "2017-03-06T00:00",
-                        "rp_W33"
+                        "rp_W47"
                     ],
                     [
                         "2017-03-07T00:00",
-                        "rp_W320"
+                        "rp_W47"
                     ],
                     [
                         "2017-03-08T00:00",
-                        "rp_W33"
+                        "rp_W341"
                     ],
                     [
                         "2017-03-09T00:00",
-                        "rp_W33"
+                        "rp_W47"
                     ],
                     [
                         "2017-03-10T00:00",
@@ -802,15 +1642,15 @@
                     ],
                     [
                         "2017-03-11T00:00",
-                        "rp_W337"
+                        "rp_W112"
                     ],
                     [
                         "2017-03-12T00:00",
-                        "rp_W154"
+                        "rp_W245"
                     ],
                     [
                         "2017-03-13T00:00",
-                        "rp_W117"
+                        "rp_W290"
                     ],
                     [
                         "2017-03-14T00:00",
@@ -822,15 +1662,15 @@
                     ],
                     [
                         "2017-03-16T00:00",
-                        "rp_W117"
+                        "rp_W101"
                     ],
                     [
                         "2017-03-17T00:00",
-                        "rp_W117"
+                        "rp_W286"
                     ],
                     [
                         "2017-03-18T00:00",
-                        "rp_W330"
+                        "rp_W301"
                     ],
                     [
                         "2017-03-19T00:00",
@@ -838,7 +1678,7 @@
                     ],
                     [
                         "2017-03-20T00:00",
-                        "rp_W271"
+                        "rp_W286"
                     ],
                     [
                         "2017-03-21T00:00",
@@ -854,51 +1694,51 @@
                     ],
                     [
                         "2017-03-24T00:00",
-                        "rp_W117"
+                        "rp_W286"
                     ],
                     [
                         "2017-03-25T00:00",
-                        "rp_W175"
+                        "rp_W301"
                     ],
                     [
                         "2017-03-26T00:00",
-                        "rp_W154"
+                        "rp_W107"
                     ],
                     [
                         "2017-03-27T00:00",
-                        "rp_W117"
+                        "rp_W101"
                     ],
                     [
                         "2017-03-28T00:00",
-                        "rp_W117"
+                        "rp_W101"
                     ],
                     [
                         "2017-03-29T00:00",
-                        "rp_W271"
+                        "rp_W286"
                     ],
                     [
                         "2017-03-30T00:00",
-                        "rp_W271"
+                        "rp_W276"
                     ],
                     [
                         "2017-03-31T00:00",
-                        "rp_W271"
+                        "rp_W276"
                     ],
                     [
                         "2017-04-01T00:00",
-                        "rp_W154"
+                        "rp_W112"
                     ],
                     [
                         "2017-04-02T00:00",
-                        "rp_W141"
+                        "rp_W245"
                     ],
                     [
                         "2017-04-03T00:00",
-                        "rp_W271"
+                        "rp_W262"
                     ],
                     [
                         "2017-04-04T00:00",
-                        "rp_W117"
+                        "rp_W101"
                     ],
                     [
                         "2017-04-05T00:00",
@@ -910,11 +1750,11 @@
                     ],
                     [
                         "2017-04-07T00:00",
-                        "rp_W117"
+                        "rp_W101"
                     ],
                     [
                         "2017-04-08T00:00",
-                        "rp_W154"
+                        "rp_W112"
                     ],
                     [
                         "2017-04-09T00:00",
@@ -922,35 +1762,35 @@
                     ],
                     [
                         "2017-04-10T00:00",
-                        "rp_W271"
+                        "rp_W262"
                     ],
                     [
                         "2017-04-11T00:00",
-                        "rp_W117"
+                        "rp_W101"
                     ],
                     [
                         "2017-04-12T00:00",
-                        "rp_W271"
+                        "rp_W276"
                     ],
                     [
                         "2017-04-13T00:00",
-                        "rp_W117"
+                        "rp_W101"
                     ],
                     [
                         "2017-04-14T00:00",
-                        "rp_W117"
+                        "rp_W101"
                     ],
                     [
                         "2017-04-15T00:00",
-                        "rp_W154"
+                        "rp_W112"
                     ],
                     [
                         "2017-04-16T00:00",
-                        "rp_W141"
+                        "rp_W107"
                     ],
                     [
                         "2017-04-17T00:00",
-                        "rp_W141"
+                        "rp_W107"
                     ],
                     [
                         "2017-04-18T00:00",
@@ -970,19 +1810,19 @@
                     ],
                     [
                         "2017-04-22T00:00",
-                        "rp_W154"
+                        "rp_W112"
                     ],
                     [
                         "2017-04-23T00:00",
-                        "rp_W154"
+                        "rp_W245"
                     ],
                     [
                         "2017-04-24T00:00",
-                        "rp_W271"
+                        "rp_W262"
                     ],
                     [
                         "2017-04-25T00:00",
-                        "rp_W117"
+                        "rp_W276"
                     ],
                     [
                         "2017-04-26T00:00",
@@ -998,43 +1838,43 @@
                     ],
                     [
                         "2017-04-29T00:00",
-                        "rp_W154"
+                        "rp_W112"
                     ],
                     [
                         "2017-04-30T00:00",
-                        "rp_W175"
+                        "rp_W156"
                     ],
                     [
                         "2017-05-01T00:00",
-                        "rp_W141"
+                        "rp_W107"
                     ],
                     [
                         "2017-05-02T00:00",
-                        "rp_W271"
+                        "rp_W262"
                     ],
                     [
                         "2017-05-03T00:00",
-                        "rp_W117"
+                        "rp_W101"
                     ],
                     [
                         "2017-05-04T00:00",
-                        "rp_W271"
+                        "rp_W150"
                     ],
                     [
                         "2017-05-05T00:00",
-                        "rp_W271"
+                        "rp_W150"
                     ],
                     [
                         "2017-05-06T00:00",
-                        "rp_W154"
+                        "rp_W245"
                     ],
                     [
                         "2017-05-07T00:00",
-                        "rp_W141"
+                        "rp_W107"
                     ],
                     [
                         "2017-05-08T00:00",
-                        "rp_W271"
+                        "rp_W150"
                     ],
                     [
                         "2017-05-09T00:00",
@@ -1046,23 +1886,23 @@
                     ],
                     [
                         "2017-05-11T00:00",
-                        "rp_W151"
+                        "rp_W192"
                     ],
                     [
                         "2017-05-12T00:00",
-                        "rp_W151"
+                        "rp_W192"
                     ],
                     [
                         "2017-05-13T00:00",
-                        "rp_W154"
+                        "rp_W206"
                     ],
                     [
                         "2017-05-14T00:00",
-                        "rp_W141"
+                        "rp_W156"
                     ],
                     [
                         "2017-05-15T00:00",
-                        "rp_W151"
+                        "rp_W228"
                     ],
                     [
                         "2017-05-16T00:00",
@@ -1078,11 +1918,11 @@
                     ],
                     [
                         "2017-05-19T00:00",
-                        "rp_W271"
+                        "rp_W150"
                     ],
                     [
                         "2017-05-20T00:00",
-                        "rp_W154"
+                        "rp_W245"
                     ],
                     [
                         "2017-05-21T00:00",
@@ -1090,7 +1930,7 @@
                     ],
                     [
                         "2017-05-22T00:00",
-                        "rp_W151"
+                        "rp_W228"
                     ],
                     [
                         "2017-05-23T00:00",
@@ -1106,11 +1946,11 @@
                     ],
                     [
                         "2017-05-26T00:00",
-                        "rp_W154"
+                        "rp_W206"
                     ],
                     [
                         "2017-05-27T00:00",
-                        "rp_W141"
+                        "rp_W107"
                     ],
                     [
                         "2017-05-28T00:00",
@@ -1122,7 +1962,7 @@
                     ],
                     [
                         "2017-05-30T00:00",
-                        "rp_W151"
+                        "rp_W150"
                     ],
                     [
                         "2017-05-31T00:00",
@@ -1138,43 +1978,43 @@
                     ],
                     [
                         "2017-06-03T00:00",
-                        "rp_W154"
+                        "rp_W245"
                     ],
                     [
                         "2017-06-04T00:00",
-                        "rp_W141"
+                        "rp_W156"
                     ],
                     [
                         "2017-06-05T00:00",
-                        "rp_W141"
+                        "rp_W156"
                     ],
                     [
                         "2017-06-06T00:00",
-                        "rp_W200"
+                        "rp_W256"
                     ],
                     [
                         "2017-06-07T00:00",
-                        "rp_W200"
+                        "rp_W256"
                     ],
                     [
                         "2017-06-08T00:00",
-                        "rp_W200"
+                        "rp_W192"
                     ],
                     [
                         "2017-06-09T00:00",
-                        "rp_W200"
+                        "rp_W150"
                     ],
                     [
                         "2017-06-10T00:00",
-                        "rp_W154"
+                        "rp_W245"
                     ],
                     [
                         "2017-06-11T00:00",
-                        "rp_W141"
+                        "rp_W156"
                     ],
                     [
                         "2017-06-12T00:00",
-                        "rp_W200"
+                        "rp_W192"
                     ],
                     [
                         "2017-06-13T00:00",
@@ -1186,15 +2026,15 @@
                     ],
                     [
                         "2017-06-15T00:00",
-                        "rp_W151"
+                        "rp_W150"
                     ],
                     [
                         "2017-06-16T00:00",
-                        "rp_W151"
+                        "rp_W192"
                     ],
                     [
                         "2017-06-17T00:00",
-                        "rp_W154"
+                        "rp_W245"
                     ],
                     [
                         "2017-06-18T00:00",
@@ -1214,11 +2054,11 @@
                     ],
                     [
                         "2017-06-22T00:00",
-                        "rp_W151"
+                        "rp_W150"
                     ],
                     [
                         "2017-06-23T00:00",
-                        "rp_W151"
+                        "rp_W150"
                     ],
                     [
                         "2017-06-24T00:00",
@@ -1226,7 +2066,7 @@
                     ],
                     [
                         "2017-06-25T00:00",
-                        "rp_W141"
+                        "rp_W156"
                     ],
                     [
                         "2017-06-26T00:00",
@@ -1238,15 +2078,15 @@
                     ],
                     [
                         "2017-06-28T00:00",
-                        "rp_W151"
+                        "rp_W150"
                     ],
                     [
                         "2017-06-29T00:00",
-                        "rp_W151"
+                        "rp_W150"
                     ],
                     [
                         "2017-06-30T00:00",
-                        "rp_W151"
+                        "rp_W192"
                     ],
                     [
                         "2017-07-01T00:00",
@@ -1258,7 +2098,7 @@
                     ],
                     [
                         "2017-07-03T00:00",
-                        "rp_W200"
+                        "rp_W192"
                     ],
                     [
                         "2017-07-04T00:00",
@@ -1278,7 +2118,7 @@
                     ],
                     [
                         "2017-07-08T00:00",
-                        "rp_W154"
+                        "rp_W245"
                     ],
                     [
                         "2017-07-09T00:00",
@@ -1286,23 +2126,23 @@
                     ],
                     [
                         "2017-07-10T00:00",
-                        "rp_W200"
+                        "rp_W228"
                     ],
                     [
                         "2017-07-11T00:00",
-                        "rp_W200"
+                        "rp_W192"
                     ],
                     [
                         "2017-07-12T00:00",
-                        "rp_W200"
+                        "rp_W192"
                     ],
                     [
                         "2017-07-13T00:00",
-                        "rp_W151"
+                        "rp_W228"
                     ],
                     [
                         "2017-07-14T00:00",
-                        "rp_W200"
+                        "rp_W192"
                     ],
                     [
                         "2017-07-15T00:00",
@@ -1310,83 +2150,83 @@
                     ],
                     [
                         "2017-07-16T00:00",
-                        "rp_W141"
+                        "rp_W156"
                     ],
                     [
                         "2017-07-17T00:00",
-                        "rp_W200"
+                        "rp_W228"
                     ],
                     [
                         "2017-07-18T00:00",
-                        "rp_W200"
+                        "rp_W192"
                     ],
                     [
                         "2017-07-19T00:00",
-                        "rp_W200"
+                        "rp_W192"
                     ],
                     [
                         "2017-07-20T00:00",
-                        "rp_W154"
+                        "rp_W206"
                     ],
                     [
                         "2017-07-21T00:00",
-                        "rp_W141"
+                        "rp_W156"
                     ],
                     [
                         "2017-07-22T00:00",
-                        "rp_W141"
+                        "rp_W156"
                     ],
                     [
                         "2017-07-23T00:00",
-                        "rp_W141"
+                        "rp_W204"
                     ],
                     [
                         "2017-07-24T00:00",
-                        "rp_W154"
+                        "rp_W206"
                     ],
                     [
                         "2017-07-25T00:00",
-                        "rp_W154"
+                        "rp_W206"
                     ],
                     [
                         "2017-07-26T00:00",
-                        "rp_W154"
+                        "rp_W206"
                     ],
                     [
                         "2017-07-27T00:00",
-                        "rp_W154"
+                        "rp_W206"
                     ],
                     [
                         "2017-07-28T00:00",
-                        "rp_W175"
+                        "rp_W206"
                     ],
                     [
                         "2017-07-29T00:00",
-                        "rp_W141"
+                        "rp_W156"
                     ],
                     [
                         "2017-07-30T00:00",
-                        "rp_W141"
+                        "rp_W204"
                     ],
                     [
                         "2017-07-31T00:00",
-                        "rp_W154"
+                        "rp_W206"
                     ],
                     [
                         "2017-08-01T00:00",
-                        "rp_W154"
+                        "rp_W206"
                     ],
                     [
                         "2017-08-02T00:00",
-                        "rp_W154"
+                        "rp_W206"
                     ],
                     [
                         "2017-08-03T00:00",
-                        "rp_W175"
+                        "rp_W206"
                     ],
                     [
                         "2017-08-04T00:00",
-                        "rp_W175"
+                        "rp_W206"
                     ],
                     [
                         "2017-08-05T00:00",
@@ -1394,39 +2234,39 @@
                     ],
                     [
                         "2017-08-06T00:00",
-                        "rp_W141"
+                        "rp_W204"
                     ],
                     [
                         "2017-08-07T00:00",
-                        "rp_W154"
+                        "rp_W206"
                     ],
                     [
                         "2017-08-08T00:00",
-                        "rp_W200"
+                        "rp_W228"
                     ],
                     [
                         "2017-08-09T00:00",
-                        "rp_W200"
+                        "rp_W228"
                     ],
                     [
                         "2017-08-10T00:00",
-                        "rp_W200"
+                        "rp_W228"
                     ],
                     [
                         "2017-08-11T00:00",
-                        "rp_W200"
+                        "rp_W228"
                     ],
                     [
                         "2017-08-12T00:00",
-                        "rp_W175"
+                        "rp_W107"
                     ],
                     [
                         "2017-08-13T00:00",
-                        "rp_W141"
+                        "rp_W156"
                     ],
                     [
                         "2017-08-14T00:00",
-                        "rp_W154"
+                        "rp_W245"
                     ],
                     [
                         "2017-08-15T00:00",
@@ -1434,15 +2274,15 @@
                     ],
                     [
                         "2017-08-16T00:00",
-                        "rp_W200"
+                        "rp_W228"
                     ],
                     [
                         "2017-08-17T00:00",
-                        "rp_W200"
+                        "rp_W150"
                     ],
                     [
                         "2017-08-18T00:00",
-                        "rp_W200"
+                        "rp_W150"
                     ],
                     [
                         "2017-08-19T00:00",
@@ -1450,11 +2290,11 @@
                     ],
                     [
                         "2017-08-20T00:00",
-                        "rp_W141"
+                        "rp_W156"
                     ],
                     [
                         "2017-08-21T00:00",
-                        "rp_W151"
+                        "rp_W228"
                     ],
                     [
                         "2017-08-22T00:00",
@@ -1474,7 +2314,7 @@
                     ],
                     [
                         "2017-08-26T00:00",
-                        "rp_W154"
+                        "rp_W245"
                     ],
                     [
                         "2017-08-27T00:00",
@@ -1490,11 +2330,11 @@
                     ],
                     [
                         "2017-08-30T00:00",
-                        "rp_W271"
+                        "rp_W286"
                     ],
                     [
                         "2017-08-31T00:00",
-                        "rp_W271"
+                        "rp_W262"
                     ],
                     [
                         "2017-09-01T00:00",
@@ -1502,7 +2342,7 @@
                     ],
                     [
                         "2017-09-02T00:00",
-                        "rp_W154"
+                        "rp_W245"
                     ],
                     [
                         "2017-09-03T00:00",
@@ -1510,55 +2350,55 @@
                     ],
                     [
                         "2017-09-04T00:00",
-                        "rp_W271"
+                        "rp_W262"
                     ],
                     [
                         "2017-09-05T00:00",
-                        "rp_W271"
+                        "rp_W286"
                     ],
                     [
                         "2017-09-06T00:00",
-                        "rp_W271"
+                        "rp_W276"
                     ],
                     [
                         "2017-09-07T00:00",
-                        "rp_W271"
+                        "rp_W262"
                     ],
                     [
                         "2017-09-08T00:00",
-                        "rp_W200"
+                        "rp_W256"
                     ],
                     [
                         "2017-09-09T00:00",
-                        "rp_W154"
+                        "rp_W276"
                     ],
                     [
                         "2017-09-10T00:00",
-                        "rp_W141"
+                        "rp_W156"
                     ],
                     [
                         "2017-09-11T00:00",
-                        "rp_W200"
+                        "rp_W256"
                     ],
                     [
                         "2017-09-12T00:00",
-                        "rp_W200"
+                        "rp_W256"
                     ],
                     [
                         "2017-09-13T00:00",
-                        "rp_W200"
+                        "rp_W256"
                     ],
                     [
                         "2017-09-14T00:00",
-                        "rp_W200"
+                        "rp_W256"
                     ],
                     [
                         "2017-09-15T00:00",
-                        "rp_W271"
+                        "rp_W262"
                     ],
                     [
                         "2017-09-16T00:00",
-                        "rp_W154"
+                        "rp_W245"
                     ],
                     [
                         "2017-09-17T00:00",
@@ -1566,27 +2406,27 @@
                     ],
                     [
                         "2017-09-18T00:00",
-                        "rp_W271"
+                        "rp_W262"
                     ],
                     [
                         "2017-09-19T00:00",
-                        "rp_W271"
+                        "rp_W262"
                     ],
                     [
                         "2017-09-20T00:00",
-                        "rp_W271"
+                        "rp_W262"
                     ],
                     [
                         "2017-09-21T00:00",
-                        "rp_W271"
+                        "rp_W262"
                     ],
                     [
                         "2017-09-22T00:00",
-                        "rp_W271"
+                        "rp_W262"
                     ],
                     [
                         "2017-09-23T00:00",
-                        "rp_W154"
+                        "rp_W245"
                     ],
                     [
                         "2017-09-24T00:00",
@@ -1594,27 +2434,27 @@
                     ],
                     [
                         "2017-09-25T00:00",
-                        "rp_W271"
+                        "rp_W262"
                     ],
                     [
                         "2017-09-26T00:00",
-                        "rp_W271"
+                        "rp_W262"
                     ],
                     [
                         "2017-09-27T00:00",
-                        "rp_W271"
+                        "rp_W262"
                     ],
                     [
                         "2017-09-28T00:00",
-                        "rp_W271"
+                        "rp_W262"
                     ],
                     [
                         "2017-09-29T00:00",
-                        "rp_W271"
+                        "rp_W262"
                     ],
                     [
                         "2017-09-30T00:00",
-                        "rp_W154"
+                        "rp_W245"
                     ],
                     [
                         "2017-10-01T00:00",
@@ -1622,55 +2462,55 @@
                     ],
                     [
                         "2017-10-02T00:00",
-                        "rp_W200"
+                        "rp_W256"
                     ],
                     [
                         "2017-10-03T00:00",
-                        "rp_W271"
+                        "rp_W276"
                     ],
                     [
                         "2017-10-04T00:00",
-                        "rp_W271"
+                        "rp_W286"
                     ],
                     [
                         "2017-10-05T00:00",
-                        "rp_W271"
+                        "rp_W276"
                     ],
                     [
                         "2017-10-06T00:00",
-                        "rp_W271"
+                        "rp_W276"
                     ],
                     [
                         "2017-10-07T00:00",
-                        "rp_W175"
+                        "rp_W301"
                     ],
                     [
                         "2017-10-08T00:00",
-                        "rp_W154"
+                        "rp_W245"
                     ],
                     [
                         "2017-10-09T00:00",
-                        "rp_W271"
+                        "rp_W290"
                     ],
                     [
                         "2017-10-10T00:00",
-                        "rp_W271"
+                        "rp_W286"
                     ],
                     [
                         "2017-10-11T00:00",
-                        "rp_W271"
+                        "rp_W286"
                     ],
                     [
                         "2017-10-12T00:00",
-                        "rp_W271"
+                        "rp_W276"
                     ],
                     [
                         "2017-10-13T00:00",
-                        "rp_W271"
+                        "rp_W286"
                     ],
                     [
                         "2017-10-14T00:00",
-                        "rp_W154"
+                        "rp_W245"
                     ],
                     [
                         "2017-10-15T00:00",
@@ -1678,23 +2518,23 @@
                     ],
                     [
                         "2017-10-16T00:00",
-                        "rp_W271"
+                        "rp_W276"
                     ],
                     [
                         "2017-10-17T00:00",
-                        "rp_W271"
+                        "rp_W290"
                     ],
                     [
                         "2017-10-18T00:00",
-                        "rp_W271"
+                        "rp_W290"
                     ],
                     [
                         "2017-10-19T00:00",
-                        "rp_W271"
+                        "rp_W286"
                     ],
                     [
                         "2017-10-20T00:00",
-                        "rp_W271"
+                        "rp_W276"
                     ],
                     [
                         "2017-10-21T00:00",
@@ -1706,27 +2546,27 @@
                     ],
                     [
                         "2017-10-23T00:00",
-                        "rp_W271"
+                        "rp_W290"
                     ],
                     [
                         "2017-10-24T00:00",
-                        "rp_W33"
+                        "rp_W286"
                     ],
                     [
                         "2017-10-25T00:00",
-                        "rp_W271"
+                        "rp_W290"
                     ],
                     [
                         "2017-10-26T00:00",
-                        "rp_W117"
+                        "rp_W290"
                     ],
                     [
                         "2017-10-27T00:00",
-                        "rp_W271"
+                        "rp_W276"
                     ],
                     [
                         "2017-10-28T00:00",
-                        "rp_W330"
+                        "rp_W301"
                     ],
                     [
                         "2017-10-29T00:00",
@@ -1734,39 +2574,39 @@
                     ],
                     [
                         "2017-10-30T00:00",
-                        "rp_W271"
+                        "rp_W290"
                     ],
                     [
                         "2017-10-31T00:00",
-                        "rp_W117"
+                        "rp_W286"
                     ],
                     [
                         "2017-11-01T00:00",
-                        "rp_W154"
+                        "rp_W112"
                     ],
                     [
                         "2017-11-02T00:00",
-                        "rp_W271"
+                        "rp_W290"
                     ],
                     [
                         "2017-11-03T00:00",
-                        "rp_W117"
+                        "rp_W101"
                     ],
                     [
                         "2017-11-04T00:00",
-                        "rp_W330"
+                        "rp_W323"
                     ],
                     [
                         "2017-11-05T00:00",
-                        "rp_W330"
+                        "rp_W323"
                     ],
                     [
                         "2017-11-06T00:00",
-                        "rp_W320"
+                        "rp_W290"
                     ],
                     [
                         "2017-11-07T00:00",
-                        "rp_W320"
+                        "rp_W47"
                     ],
                     [
                         "2017-11-08T00:00",
@@ -1782,15 +2622,15 @@
                     ],
                     [
                         "2017-11-11T00:00",
-                        "rp_W337"
+                        "rp_W322"
                     ],
                     [
                         "2017-11-12T00:00",
-                        "rp_W330"
+                        "rp_W323"
                     ],
                     [
                         "2017-11-13T00:00",
-                        "rp_W33"
+                        "rp_W290"
                     ],
                     [
                         "2017-11-14T00:00",
@@ -1810,27 +2650,27 @@
                     ],
                     [
                         "2017-11-18T00:00",
-                        "rp_W337"
+                        "rp_W322"
                     ],
                     [
                         "2017-11-19T00:00",
-                        "rp_W330"
+                        "rp_W323"
                     ],
                     [
                         "2017-11-20T00:00",
-                        "rp_W320"
+                        "rp_W341"
                     ],
                     [
                         "2017-11-21T00:00",
-                        "rp_W33"
+                        "rp_W341"
                     ],
                     [
                         "2017-11-22T00:00",
-                        "rp_W33"
+                        "rp_W341"
                     ],
                     [
                         "2017-11-23T00:00",
-                        "rp_W33"
+                        "rp_W341"
                     ],
                     [
                         "2017-11-24T00:00",
@@ -1838,27 +2678,27 @@
                     ],
                     [
                         "2017-11-25T00:00",
-                        "rp_W337"
+                        "rp_W322"
                     ],
                     [
                         "2017-11-26T00:00",
-                        "rp_W330"
+                        "rp_W323"
                     ],
                     [
                         "2017-11-27T00:00",
-                        "rp_W33"
+                        "rp_W341"
                     ],
                     [
                         "2017-11-28T00:00",
-                        "rp_W320"
+                        "rp_W10"
                     ],
                     [
                         "2017-11-29T00:00",
-                        "rp_W31"
+                        "rp_W10"
                     ],
                     [
                         "2017-11-30T00:00",
-                        "rp_W31"
+                        "rp_W10"
                     ],
                     [
                         "2017-12-01T00:00",
@@ -1886,7 +2726,7 @@
                     ],
                     [
                         "2017-12-07T00:00",
-                        "rp_W33"
+                        "rp_W341"
                     ],
                     [
                         "2017-12-08T00:00",
@@ -1894,31 +2734,31 @@
                     ],
                     [
                         "2017-12-09T00:00",
-                        "rp_W337"
+                        "rp_W322"
                     ],
                     [
                         "2017-12-10T00:00",
-                        "rp_W337"
+                        "rp_W322"
                     ],
                     [
                         "2017-12-11T00:00",
-                        "rp_W31"
+                        "rp_W12"
                     ],
                     [
                         "2017-12-12T00:00",
-                        "rp_W31"
+                        "rp_W10"
                     ],
                     [
                         "2017-12-13T00:00",
-                        "rp_W31"
+                        "rp_W12"
                     ],
                     [
                         "2017-12-14T00:00",
-                        "rp_W33"
+                        "rp_W12"
                     ],
                     [
                         "2017-12-15T00:00",
-                        "rp_W31"
+                        "rp_W10"
                     ],
                     [
                         "2017-12-16T00:00",
@@ -1950,7 +2790,7 @@
                     ],
                     [
                         "2017-12-23T00:00",
-                        "rp_W330"
+                        "rp_W301"
                     ],
                     [
                         "2017-12-24T00:00",
@@ -1962,23 +2802,23 @@
                     ],
                     [
                         "2017-12-26T00:00",
-                        "rp_W330"
+                        "rp_W301"
                     ],
                     [
                         "2017-12-27T00:00",
-                        "rp_W330"
+                        "rp_W192"
                     ],
                     [
                         "2017-12-28T00:00",
-                        "rp_W330"
+                        "rp_W322"
                     ],
                     [
                         "2017-12-29T00:00",
-                        "rp_W330"
+                        "rp_W322"
                     ],
                     [
                         "2017-12-30T00:00",
-                        "rp_W175"
+                        "rp_W301"
                     ],
                     [
                         "2017-12-31T00:00",

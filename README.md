@@ -78,4 +78,4 @@ Getting started
 
 9\. You can inspect e.g. the battery state of charge by clicking on `root --> node --> Battery Node` and then in the `Relationship parameter value` window (right hand side of the Spine DB editor) click on `report__node__stocastic_scenario --> Time series` (under column `value`). You should see something like this:
 
-![Example of battery state of charge](figures/example_battery_node_state.png)
+![Example of state of charge for battery and long term storage](figures/example_state_of_charge.png)
